@@ -1,4 +1,4 @@
-#URL: https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/
+# URL: https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/
 
 from typing import List
 
